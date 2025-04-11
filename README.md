@@ -12,7 +12,7 @@ If you want to contribute or catched a bug contact me in discord (**__13redspy__
 ## License
 You can't modify, use, share and etc. that code.  **__I do__**.<br/>
 You still can use this code to play the [game](https://store.steampowered.com/app/1281930/tModLoader/) (if you subscribed on it in steam workshop) and as an example for your own mods<br/>
-(yes i won't be mad at you for that, i also used other mods repositories as example, but remember that i'll still be mad at you if you ctrl+c,ctrl+v the whole project and say that you made it).<br/>
+(yes i won't be mad at you for that, i also used other mods repositories as example, but remember that i'll still be mad at you if you copy-paste the whole project and say that you made it).<br/>
 No i won't change license just because you want.<br/>
 
 ## How to contribute
