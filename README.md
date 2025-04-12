@@ -3,6 +3,7 @@ Content:
 > [**__ABOUT__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#about)<br/>
 > [**__LICENSE__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#license)<br/>
 > [**__HOW TO CONTRIBUTE__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#how-to-contribute)<br/>
+> [**__ABOUT DECOMPILED FILES__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#about-decompiled-files)<br/>
 > [**__READ THAT BEFORE REPORTING A BUG__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#features---known-issues-or-bugs-that-i-wont-be-fixing-ever)
 
 ## About
@@ -19,6 +20,11 @@ No i won't change license just because you want.<br/>
 If you really want to help in development([C#](https://learn.microsoft.com/en-us/dotnet/csharp/) knowledge needed) or spotted a ***bug*** - text me in discord.<br/>
 I usually answer in less than an hour in discord so it's highly reccomended to text me there.<br/>
 My discord: <ins>**__13redspy__**</ins>
+
+## About decompiled files
+Some releases will be marked as decompiled or decomp that means that i lost access to that build and restored files from steam workshop.<br/>
+These builds should be treated as unstable dev builds. Use them as example on your own risk, because i've written code in a different way.<br/>
+Here's example of [decompiled code](https://github.com/RSG-13/USSR-slot-system/edit/main/decompiled-0.2/)
 
 ## Features - known issues or bugs that i won't be fixing ever
 `
