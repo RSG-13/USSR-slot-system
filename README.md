@@ -1,7 +1,7 @@
 # USSR-slot-system
 Content:
 > [**__ABOUT__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#about)<br/>
-> [**__SUPPORTED MODS__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#supported-mods)
+> [**__SUPPORTED MODS__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#supported-mods)<br/>
 > [**__LICENSE__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#license)<br/>
 > [**__HOW TO CONTRIBUTE__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#how-to-contribute)<br/>
 > [**__ABOUT DECOMPILED FILES__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#about-decompiled-files)<br/>
