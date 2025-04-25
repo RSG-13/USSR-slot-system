@@ -1,6 +1,7 @@
 # USSR-slot-system
 Content:
 > [**__ABOUT__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#about)<br/>
+> [**__SUPPORTED MODS__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#supported-mods)
 > [**__LICENSE__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#license)<br/>
 > [**__HOW TO CONTRIBUTE__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#how-to-contribute)<br/>
 > [**__ABOUT DECOMPILED FILES__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#about-decompiled-files)<br/>
@@ -9,6 +10,10 @@ Content:
 ## About
 This repository is created for the [tModLoader mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3412903487) with the same name.<br/>
 If you want to contribute or catched a bug contact me in discord (**__13redspy__**).<br/>
+
+## Supported mods
+Fully supported: [Calamity](https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072&searchtext=Calamity), [Thorium](https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416&searchtext=Thorium), [Advanced Accessory Combinations](https://steamcommunity.com/sharedfiles/filedetails/?id=3433296738), [Combinations](https://steamcommunity.com/sharedfiles/filedetails/?id=2801796077), [Storm's Additions Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2747380524).<br/>
+Partly supported: [Fargo](https://steamcommunity.com/sharedfiles/filedetails/?id=2815540735&searchtext=Fargo).<br/>
 
 ## License
 You can't modify, use, share and etc. that code.  **__I do__**.<br/>
@@ -31,7 +36,3 @@ Here's example of [decompiled code](https://github.com/RSG-13/USSR-slot-system/e
 btw you can also wear wings and celestial tracers at the same time, you have to put the celestial tracers in boot slot and then right click the wings and it will be put in the wing slot
 `<br/>
 Thanks [Iaro](https://steamcommunity.com/id/yaroslav0808) for that info.<br/>
-`
-Accessories(that can be put into slots this mod add) can't be equiped in default slots if "Allow equiping in other slots" disabled.(it's a bug and i'll try to fix it.)
-`<br/>
-Thanks [Marauder](https://steamcommunity.com/profiles/76561198009657525) for that info. <br/>
