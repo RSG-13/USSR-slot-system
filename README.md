@@ -31,3 +31,7 @@ Here's example of [decompiled code](https://github.com/RSG-13/USSR-slot-system/e
 btw you can also wear wings and celestial tracers at the same time, you have to put the celestial tracers in boot slot and then right click the wings and it will be put in the wing slot
 `<br/>
 Thanks [Iaro](https://steamcommunity.com/id/yaroslav0808) for that info.<br/>
+`
+Accessories(that can be put into slots this mod add) can't be equiped in default slots if "Allow equiping in other slots" disabled.(it's a bug and i'll try to fix it.)
+`<br/>
+Thanks [Marauder](https://steamcommunity.com/profiles/76561198009657525) for that info. <br/>
