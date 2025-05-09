@@ -12,7 +12,7 @@ This repository is created for the [tModLoader mod](https://steamcommunity.com/s
 If you want to contribute or catched a bug contact me in discord (**__13redspy__**).<br/>
 
 ## Supported mods
-Fully supported: [Calamity](https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072&searchtext=Calamity), [Thorium](https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416&searchtext=Thorium), [Advanced Accessory Combinations](https://steamcommunity.com/sharedfiles/filedetails/?id=3433296738), [Combinations](https://steamcommunity.com/sharedfiles/filedetails/?id=2801796077), [Storm's Additions Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2747380524).<br/>
+Fully supported: [Calamity](https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072&searchtext=Calamity), [Thorium](https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416&searchtext=Thorium), [Advanced Accessory Combinations](https://steamcommunity.com/sharedfiles/filedetails/?id=3433296738), [Combinations](https://steamcommunity.com/sharedfiles/filedetails/?id=2801796077), [Storm's Additions Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2747380524), [Expert Accessory Expansion Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3161926149), [Dash Accessory Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=3000550227), [Dash Accessory Expansion Lite](https://steamcommunity.com/sharedfiles/filedetails/?id=2989124084).<br/>
 Partly supported: [Fargo](https://steamcommunity.com/sharedfiles/filedetails/?id=2815540735&searchtext=Fargo).<br/>
 
 ## License
