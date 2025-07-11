@@ -550,6 +550,7 @@ namespace uniteSlotSystemRemaster
         public static int[] CombinationTypes = GetCombinationTypes();
         public static int[] StormDiversTypes = GetStormTypes();
         public static int[] ExpAccExpTypes = GetExpAccExpTypes();
+        public static int[] ConsolariaItemTypes = GetConsolariaTypes();
 
         public static int[] Items;
 
@@ -651,9 +652,22 @@ namespace uniteSlotSystemRemaster
             return new int[18];
         }
 
+        public static int[] GetConsolariaTypes()
+        {
+            if (ModLoader.TryGetMod("Consolaria", out var Consolaria))
+            {
+                Consolaria.TryFind<ModItem>("OstarasGift", out var OstarasGift);
+                return new int[1]
+                {
+                    OstarasGift.Type
+                };
+            }
+            return new int[1];
+        }
+
         static uGlobalItemExpert()
         {
-            int[] obj = new int[47]
+            int[] obj = new int[48]
             {
                 3090, 3097, 3224, 3223, 3333, 3245, 5100, 4987, 3336, 3337,
                 4989, 1131, 4954, 
@@ -661,7 +675,8 @@ namespace uniteSlotSystemRemaster
                 0, 0, 0,
                 0,
                 0, 0, 0, 0, 0, 0, 0,
-                0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+                0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                0
             };
             obj[13] = CalamityItemTypes[0];
             obj[14] = CalamityItemTypes[1];
@@ -697,6 +712,7 @@ namespace uniteSlotSystemRemaster
             obj[44] = ExpAccExpTypes[15];
             obj[45] = ExpAccExpTypes[16];
             obj[46] = ExpAccExpTypes[17];
+            obj[47] = ConsolariaItemTypes[0];
             Items = obj;
         }
         public override bool AppliesToEntity(Item entity, bool lateInstantiation)
@@ -778,6 +794,7 @@ namespace uniteSlotSystemRemaster
         public static int[] CalamityFablesItemTypes = GetCalamityFablesTypes();
         public static int[] AACItemTypes = GetAACTypes();
         public static int[] CombinationTypes = GetCombinationTypes();
+        public static int[] ConsolariaItemTypes = GetConsolariaTypes();
 
         public static int[] Items;
 
@@ -836,6 +853,18 @@ namespace uniteSlotSystemRemaster
             }
             return new int[3];
         }
+        public static int[] GetConsolariaTypes()
+        {
+            if (ModLoader.TryGetMod("Consolaria", out var Consolaria))
+            {
+                Consolaria.TryFind<ModItem>("ShadowboundExoskeleton", out var ShadowboundExoskeleton);
+                return new int[1]
+                {
+                    ShadowboundExoskeleton.Type
+                };
+            }
+            return new int[1];
+        }
 
         public override bool AppliesToEntity(Item entity, bool lateInstantiation)
         {
@@ -853,14 +882,15 @@ namespace uniteSlotSystemRemaster
 
         static uGlobalItemGear()
         {
-            int[] obj = new int[25]
+            int[] obj = new int[26]
             {
                 394, 953, 975, 976, 963, 977, 984, 1860, 1861, 2423,
                 3994, 3996, 3995, 
                 0, 0, 0, 0,
                 0, 0,
                 0, 0, 0,
-                0, 0, 0
+                0, 0, 0,
+                0
             };
             obj[13] = CalamityItemTypes[0];
             obj[14] = CalamityItemTypes[1];
@@ -874,6 +904,7 @@ namespace uniteSlotSystemRemaster
             obj[22] = CombinationTypes[0];
             obj[23] = CombinationTypes[1];
             obj[24] = CombinationTypes[2];
+            obj[25] = ConsolariaItemTypes[0];
             Items = obj;
         }
     }
@@ -888,6 +919,7 @@ namespace uniteSlotSystemRemaster
         public static int[] AACItemTypes = GetAACTypes();
         public static int[] CombinationTypes = GetCombinationTypes();
         public static int[] StormDiversTypes = GetStormTypes();
+        public static int[] ConsolariaItemTypes = GetConsolariaTypes();
 
         public static int[] Items;
 
@@ -1002,6 +1034,19 @@ namespace uniteSlotSystemRemaster
             }
             return new int[5];
         }
+        public static int[] GetConsolariaTypes()
+        {
+            if (ModLoader.TryGetMod("Consolaria", out var Consolaria))
+            {
+                Consolaria.TryFind<ModItem>("OstarasGift", out var OstarasGift);
+                Consolaria.TryFind<ModItem>("ValentineRing", out var ValentineRing);
+                return new int[2]
+                {
+                    OstarasGift.Type, ValentineRing.Type
+                };
+            }
+            return new int[2];
+        }
 
         public override bool AppliesToEntity(Item entity, bool lateInstantiation)
         {
@@ -1019,7 +1064,7 @@ namespace uniteSlotSystemRemaster
 
         static uGlobalItemHeal()
         {
-            int[] obj = new int[55]
+            int[] obj = new int[57]
             {
                 3991, 49, 111, 2221, 2219, 2220, 860, 1595, 4000, 4001,
                 555, 982, 223, 535, 3337, 
@@ -1029,7 +1074,8 @@ namespace uniteSlotSystemRemaster
                 0, 0, 0, 0, 0, 0, 0,
                 0,
                 0,
-                0, 0, 0, 0, 0
+                0, 0, 0, 0, 0,
+                0, 0
             };
             obj[15] = CalamityItemTypes[0];
             obj[16] = CalamityItemTypes[1];
@@ -1071,6 +1117,8 @@ namespace uniteSlotSystemRemaster
             obj[52] = StormDiversTypes[2];
             obj[53] = StormDiversTypes[3];
             obj[54] = StormDiversTypes[4];
+            obj[55] = ConsolariaItemTypes[0];
+            obj[56] = ConsolariaItemTypes[1];
             Items = obj;
         }
     }
