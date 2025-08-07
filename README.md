@@ -1,16 +1,16 @@
 # USSR-slot-system
 Content:
-> [**__ABOUT__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#about)<br/>
-> [**__SUPPORTED MODS__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#supported-mods)<br/>
-> [**__LICENSE__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#license)<br/>
-> [**__HOW TO CONTRIBUTE__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#how-to-contribute)<br/>
-> [**__ABOUT DECOMPILED FILES__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#about-decompiled-files)<br/>
-> [**__READ THAT BEFORE REPORTING A BUG__**](https://github.com/RSG-13/USSR-slot-system/edit/main/README.md#features---known-issues-or-bugs-that-i-wont-be-fixing-ever)
+> [**__ABOUT__**](https://github.com/RSG-13/USSR-slot-system/tree/main/README.md#about)<br/>
+> [**__SUPPORTED MODS__**](https://github.com/RSG-13/USSR-slot-system/tree/main/README.md#supported-mods)<br/>
+> [**__LICENSE__**](https://github.com/RSG-13/USSR-slot-system/tree/main/README.md#license)<br/>
+> [**__HOW TO CONTRIBUTE__**](https://github.com/RSG-13/USSR-slot-system/tree/main/README.md#how-to-contribute)<br/>
+> [**__ABOUT DECOMPILED FILES__**](https://github.com/RSG-13/USSR-slot-system/tree/main/README.md#about-decompiled-files)<br/>
+> [**__READ THAT BEFORE REPORTING A BUG__**](https://github.com/RSG-13/USSR-slot-system/tree/main/README.md#features---known-issues-or-bugs-that-i-wont-be-fixing-ever)
 
 ## About
 This repository is created for the [tModLoader mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3412903487) with the same name.<br/>
 If you want to contribute or catched a bug contact me in discord (**__13redspy__**).<br/>
-This is a [dev branch](https://github.com/RSG-13/USSR-slot-system/tree/dev), here you can see [current version](https://github.com/RSG-13/USSR-slot-system/tree/dev/0.2.3) and a [dev version](https://github.com/RSG-13/USSR-slot-system/tree/dev/dev0.2.4).<br/>
+This is a [dev branch](https://github.com/RSG-13/USSR-slot-system/tree/dev), here you can see [current version](https://github.com/RSG-13/USSR-slot-system/tree/main/0.2.3) and a [dev version](https://github.com/RSG-13/USSR-slot-system/tree/dev/dev0.2.4).<br/>
 
 ## Supported mods
 Fully supported: [Calamity](https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072&searchtext=Calamity), [Calamity Fables](https://steamcommunity.com/sharedfiles/filedetails/?id=3449156562), [Calamity Treads](https://steamcommunity.com/sharedfiles/filedetails/?id=3040406362), [Thorium](https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416&searchtext=Thorium), [Advanced Accessory Combinations](https://steamcommunity.com/sharedfiles/filedetails/?id=3433296738), [Combinations](https://steamcommunity.com/sharedfiles/filedetails/?id=2801796077), [Storm's Additions Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2747380524), [Expert Accessory Expansion Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3161926149), [Dash Accessory Expansion](https://steamcommunity.com/sharedfiles/filedetails/?id=3000550227), [Dash Accessory Expansion Lite](https://steamcommunity.com/sharedfiles/filedetails/?id=2989124084), [Consolaria](https://steamcommunity.com/sharedfiles/filedetails/?id=2864843929).<br/>
@@ -31,7 +31,7 @@ My discord: <ins>**__13redspy__**</ins>
 ## About decompiled files
 Some releases will be marked as decompiled or decomp that means that i lost access to that build and restored files from steam workshop.<br/>
 These builds should be treated as unstable dev builds. Use them as example on your own risk, because i've written code in a different way.<br/>
-Here's example of [decompiled code](https://github.com/RSG-13/USSR-slot-system/edit/main/decompiled-0.2/)
+Here's example of [decompiled code](https://github.com/RSG-13/USSR-slot-system/tree/main/decompiled-0.2/)
 
 ## Features - known issues or bugs that i won't be fixing ever
 `
